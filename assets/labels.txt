@@ -1,0 +1,3 @@
+covid
+normal
+Viral Pneumonia
